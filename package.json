@@ -1,0 +1,33 @@
+{
+  "name": "open-jira",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.13.0",
+    "@types/node": "20.1.4",
+    "@types/react-dom": "18.2.4",
+    "axios": "^1.4.0",
+    "mongoose": "^7.1.1",
+    "next": "13.4.2",
+    "notistack": "^3.0.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "settle": "^0.3.1",
+    "typescript": "5.0.4",
+    "uuid": "^9.0.0",
+    "uuidv4": "^6.2.13",
+    "xhr": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.6"
+  }
+}
